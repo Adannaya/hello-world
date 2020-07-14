@@ -1,0 +1,36 @@
+Cipher Challenge Toolkit - https://nrich.maths.org/7983
+
+Part 1 - https://nrich.maths.org/7934 - Caesar +15
+
+Ltaa sdct udg hdakxcv iwt uxghi du iwt CGXRW Hipvt Iwgtt pcs Udjg rxewtg rwpaatcvth! Iwxh inet du rxewtg xh rpaats p Rpthpg hwxui pcs xh cpbts puitg Yjaxjh Rpthpg, iwt Gdbpc Tbetgdg, lwd jhts xi id rdbbjcxrpit lxiw wxh vtctgpah.
+Iwt htrdcs rxewtg rwpaatcvt lxaa jht p sxuutgtci btiwds du tcrgneixdc. Wtgt pgt hdbt ixeh id wtae ndj id hdakt xi:
+Pgt iwtgt pcn hxcvat atiitgh? Lwpi bxvwi iwtn qt?
+Pgt iwtgt pcn hwdgi ldgsh? Rpc ndj iwxcz du pcn hwdgi ldgsh iwpi pgt jhts duitc?
+Pgt iwtgt pcn pedhigdewth? Lwpi ldgsh sd ndj zcdl iwpi rdcipxc pedhigdewth? Sdth iwpi vxkt ndj pcn wxcih pqdji iwt atiitgh iwpi bxvwi qt jhts?
+Uxcpaan, ndj ctts id zcdl iwt ztnldgs id prrthh iwt htrdcs rwpaatcvt. Xi lph p rdas pcs vaddbn spn lwtc X lgdit iwxh egdqatb, hd X rwdht p qgxvwi pcs rwttguja ztnldgs: gpxcqdl.
+--------------------------------------------------------------------------------------------------------------
+Well done for solving the first of the NRICH Stage Three and Four cipher challenges! This type of cipher is called a Caesar shift and is named after Julius Caesar, the Roman Emperor, who used it to communicate with his generals.
+The second cipher challenge will use a different method of encryption. Here are some tips to help you to solve it:
+Are there any single letters? What might they be?
+Are there any short words? Can you think of any short words that are used often?
+Are there any apostrophes? What words do you know that contain apostrophes? Does that give you any hints about the letters that might be used?
+Finally, you need to know the keyword to access the second challenge. It was a cold and gloomy day when I wrote this problem, so I chose a bright and cheerful keyword: rainbow.
+
+Part 2 - https://nrich.maths.org/rainbow - ATBASH
+
+Dvoo wlmv, blf'ev hloevw xrksvi xszoovmtv mfnyvi gdl. Gsrh gbkv lu xrksvi rh z hkvxrzo hfyhgrgfgrlm xrksvi pmldm zh Zgyzhs, zmw rh nzwv yb ivevihrmt gsv zokszyvg zmw ivkozxrmt gsv ozhg ovggvi drgs gsv urihg, gsv kvmfogrnzgv ovggvi drgs gsv hvxlmw, zmw hl lm. Rg rh xzoovw Zgyzhs yvxzfhv rg dzh lirtrmzoob wlmv drgs gsv Svyivd zokszyvg, zmw rg gllp rgh mznv uiln gsv urihg zmw ozhg, zmw hvxlmw zmw kvmfogrnzgv ovggvih rm gszg zokszyvg.
+Hfyhgrgfgrlm xrksvih ivkozxv gsv ovggvih lu gsv nvhhztv drgs lgsvi ovggvih. Xzvhzi hsrug zmw Zgyzhs ziv uzriob hrnkov hfyhgrgfgrlm xrksvih gl xizxp, yvxzfhv lmxv blf'ev nzwv z uvd tfvhhvh rg'h vzhb gl hklg gsv hbhgvn gszg szh yvvm fhvw gl wvxrwv lm gsv hfyhgrgfgrlmh. Gsv mvcg nvhhztv dlm'g yv jfrgv hl vzhb gl xizxp, hl ivnvnyvi gl ollp uli kfmxgfzgrlm, hrmtov ovggvih zmw hslig dliwh.
+Urmzoob, gsv pvbdliw gl zxxvhh gsv gsriw xszoovmtv rh gvzxzpv.
+---------------------------------------------------------------------------------------------------------------
+Well done, you've solved cipher challenge number two. This type of cipher is a special substitution cipher known as Atbash, and is made by reversing the alphabet and replacing the last letter with the first, the penultimate letter with the second, and so on. It is called Atbash because it was originally done with the Hebrew alphabet, and it took its name from the first and last, and second and penultimate letters in that alphabet.
+Substitution ciphers replace the letters of the message with other letters. Caesar shift and Atbash are fairly simple substitution ciphers to crack, because once you've made a few guesses it's easy to spot the system that has been used to decide on the substitutions. The next message won't be quite so easy to crack, so remember to look for punctuation, single letters and short words.
+Finally, the keyword to access the third challenge is teacake.
+
+Part 3 - https://nrich.maths.org/teacake - Random substitution - epghijabvz-mnstklrocyuqwdf
+
+Oden en oda odery MRETD tebdar tdgqqamca. Xaqq ysma ez usv'ia lgmgcay os nsqia eo. Smta gcgem, xa vnay g nvhnoeovoesm tebdar os amtsya oda lanngca, hvo oden oela xa fvlhqay vb oda qaooarn sz oda gqbdghao rgodar odgm fvno ndezoemc eo sr raiarnemc eo. Oden lgpan eo dgryar os trgtp odgm oda Tgangr ndezo sr oda Gohgnd. Em zgto, ez usv xsrp svo dsx lgmu yezzaramo xgun eo tsvqy ha ysma, usv xeqq zemy eo'n g qso dgryar os trgtp! Aiam ns, g tslbvoar tsvqy rgbeyqu tdatp tslhemgoesmn gmy trgtp nvtd g nvhnoeovoesm tebdar wveoa wvetpqu, gmy odara gra qson sz tqvan qepa zrawvamtu gmgqunen odgo tgm ha vnay os hragp oda tsya wvetpqu.
+Zsr oda zsvrod tdgqqamca, usv xeqq ha zgtay xeod nslaodemc g qeooqa yezzaramo. Eo en g orgmnbsneoesm tebdar, xdetd lagmn odgo oda qaooarn sz oda lanngca dgia noguay oda ngla hvo odaer sryar dgn haam tdgmcay. Os nsqia oda bvjjqa, usv xeqq maay os ragrrgmca oda qaooarn em g crey, em g nbergq zsrlgoesm. Smta usv zemy oda recdo crey neja os vna, gmy oda recdo bqgta os hacem oda nbergq, oda lanngca ndsvqy alarca. Sd, gmy oda pauxsry en lvnetgq.
+-----------------------------------------------------------------------------------------------------------------
+This is the third NRICH cipher challenge. Well done if you've managed to solve it. Once again, we used a substitution cipher to encode the message, but this time we jumbled up the letters of the alphabet rather than just shifting it or reversing it. This makes it harder to crack than the Caesar shift or the Atbash. In fact, if you work out how many different ways it could be done, you will find it's a lot harder to crack! Even so, a computer could rapidly check combinations and crack such a substitution cipher quite quickly, and there are lots of clues like frequency analysis that can be used to break the code quickly. For the fourth challenge, you will be faced with something a little different. It is a transposition cipher, which means that the letters of the message have stayed the same but their order has been changed. To solve the puzzle, you will need to rearrange the letters in a grid, in a spiral formation. Once you find the right grid size to use, and the right place to begin the spiral, the message should emerge. Oh, and the keyword is musical.
+
+Part 4 - https://nrich.maths.org/musical - Transposition
