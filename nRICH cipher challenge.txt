@@ -33,4 +33,19 @@ Zsr oda zsvrod tdgqqamca, usv xeqq ha zgtay xeod nslaodemc g qeooqa yezzaramo. E
 -----------------------------------------------------------------------------------------------------------------
 This is the third NRICH cipher challenge. Well done if you've managed to solve it. Once again, we used a substitution cipher to encode the message, but this time we jumbled up the letters of the alphabet rather than just shifting it or reversing it. This makes it harder to crack than the Caesar shift or the Atbash. In fact, if you work out how many different ways it could be done, you will find it's a lot harder to crack! Even so, a computer could rapidly check combinations and crack such a substitution cipher quite quickly, and there are lots of clues like frequency analysis that can be used to break the code quickly. For the fourth challenge, you will be faced with something a little different. It is a transposition cipher, which means that the letters of the message have stayed the same but their order has been changed. To solve the puzzle, you will need to rearrange the letters in a grid, in a spiral formation. Once you find the right grid size to use, and the right place to begin the spiral, the message should emerge. Oh, and the keyword is musical.
 
-Part 4 - https://nrich.maths.org/musical - Transposition
+Part 4 - https://nrich.maths.org/musical - Transposition (6x8)
+
+ctutithidrosaoiewblnssyulcceeseiheksnpherigefive
+----------------------------------------------------
+ctutit
+hidros
+aoiewb
+lnssyu
+lccees
+eiheks
+npheri
+gefive
+-----------------------------------------------------
+Challenge five is substitution cipher. Keyword is cheese.
+
+Part 5 - https://nrich.maths.org/cheese
