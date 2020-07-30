@@ -12,3 +12,4 @@ for line in spamtext:
   pyautogui.press("enter")
 pyautogui.typewrite("Now you have no excuse for failing Chemistry.")
 pyautogui.press("enter")
+spamtext.close()
