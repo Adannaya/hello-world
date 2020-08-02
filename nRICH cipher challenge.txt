@@ -64,4 +64,8 @@ lookupatypeofciphercalledvigenereifyouhavenotheardofitbeforeavigenerecipherh
 asakeywordandforourswehavechosenthenameofamathematicalshapethekeywordtoacce
 sscipherchallengesixisspecial
 
-Part 6 - https://nrich.maths.org/special - Vigenere ()
+Part 6 - https://nrich.maths.org/special - Vigenere (CIRCLE)
+
+Kn pqf gcv iglh vpzu, gitg ngwp fweg! Elka fpp aca mgcc vwlis! Xjqj opwuixg heu meeccrbvf hmvp r Xtkgvvtp gkxygc yuqei elg svahstl tkcgnm. Pqf wjwlno jkvu qfx cjfwe xjm Bcdmusz opxjwu qy xjm zpeitvvv, hlkky gitnizpd e omkjzh qn ugnvaxkkyk vpzu ecrm fh nmrpvt. Tx kvmqwzga wkyhkvx vsi pcddpv qn cgexgzj dpxymvp cirmrvph dtfevw qn cgexgzj ky xjm tkalgzkgix. Vpzu tw nqbgwc vw sg l qwtkkapg ww vsi nmeiel qn kjp oggnqch. Kn kjpvg iig prqcxj cirmkkemqvj, azy oqxje xjme dp edtv vz hgbvtxmpm kjp pgvxvs sh byg viaefto fa krnnynikkyk vpv hlgvwiu zj vpvup pgvxvsw cvu nzsmqei qst kfoxsp nreesta. Njj rqb ktj epl ttpevm pqfv qee ettjmi cyh vmjv tx qv pqfv hzzgyhu vfy!
+--------------------------------------------------------------------
+If you can read this, very well done! This one was very tough! This message was encrypted with a Vigenere cipher using the keyword circle. You should find out about the Kasiski method on the internet, which explains a method of decrypting this type of cipher. It involves finding the number of letters between repeated blocks of letters in the ciphertext. This is likely to be a multiple of the length of the keyword. If there are enough repetitions, you might then be able to determine the length of the keyword by calculating the factors of these lengths and looking for common factors. Why not try and create your own cipher and test it on your friends now!
