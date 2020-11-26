@@ -1,0 +1,20 @@
+Andreassen, Karl, CRYPTOLOGY AND THE PERSONAL COMPUTER
+Aegean Park Press #47, 1986. 157pp. ISBN 0 89412 144 8
+
+Andreassen, Karl, COMPUTER CRYPTOLOGY – Beyond Decoder Rings
+Prentice-Hall, 1986, 243pp.
+
+Bennett, W.R, SCIENTIFIC & ENGINEERING PROBLEM SOLVING WITH THE COMPUTER
+Prentice-Hall, 1976. ISBN 0-13-795807-2
+
+Bosworth, Bruce, CODES, CIPHERS AND COMPUTERS
+Hayden Books, New Jersey, 1982
+
+Deavours, C.A, CRYPTANALYTIC PROGRAMS FOR THE IBM PC.
+Aegean Park Press #29. 1987. 44p plus floppy disk.
+
+Foster, Caxton, CRYPTANALYSIS FOR MICROCOMPUTERS
+Hayden Books, New Jersey. #5174 1983, 333 pages. ISBN 0-8104-5174-3
+
+Lauer, Rudolph F, COMPUTER SIMULATION OF CLASSICAL SUBSTITUTION CRYPTOGRAPHIC SYSTEMS
+Aegean Park Press, PO Box 2837, Laguna Hills, CA 92654. C-32 1981, 111 pages. ISBN 0-89412-050-6
